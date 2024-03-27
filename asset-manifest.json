@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Accordiantask/static/css/main.435cccc5.css",
+    "main.js": "/Accordiantask/static/js/main.cb40b403.js",
+    "static/js/453.a6a97343.chunk.js": "/Accordiantask/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Accordiantask/index.html",
+    "main.435cccc5.css.map": "/Accordiantask/static/css/main.435cccc5.css.map",
+    "main.cb40b403.js.map": "/Accordiantask/static/js/main.cb40b403.js.map",
+    "453.a6a97343.chunk.js.map": "/Accordiantask/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435cccc5.css",
+    "static/js/main.cb40b403.js"
+  ]
+}
