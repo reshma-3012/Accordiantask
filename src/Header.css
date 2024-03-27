@@ -1,0 +1,12 @@
+ul li{
+    display: inline-block;
+    margin: 10px;
+
+}
+ul{
+    background-color: blue;
+
+}
+ul li a{
+    color: white;
+}
